@@ -23,6 +23,7 @@ The project is organized in a Jupyter Notebook with the following sections:
 - Data Insertion
 - SQL Queries and Operations
 - Triggers and Automation
+- 
 
 ## Setup and Execution
 1. **Clone the Repository**: Clone this repository to your local machine.
